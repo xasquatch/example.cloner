@@ -8,11 +8,11 @@
         <version>2.7.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>example cloner</artifactId>
+    <groupId>com.gatewhy</groupId>
+    <artifactId>example_cloner</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>example.cloner</name>
-    <description>example.cloner</description>
+    <name>example cloner</name>
+    <description>example cloner</description>
     <properties>
         <java.version>11</java.version>
     </properties>
